@@ -1,0 +1,19 @@
+body{
+    background-image: url(img.jpg);
+    margin:0;
+    background-size: cover;
+}
+#container{
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 40px;
+     
+}
+#block{
+    font-family:monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+    color:aliceblue;
+}
